@@ -2,4 +2,6 @@
 
 > This project is called Mixed Messages and I'm creating it for my Codecademy Full Stack path.
 
-The purpose of this project is to build a message generator program. Each time a user runs the program, it will output a random message.
+The purpose of this project is to build a message generator program. Each time a user runs the program, it will output a random, positive, and encouraging message. The message theme is LA Surfer Bro.
+
+This message generator is written in Javascript.
